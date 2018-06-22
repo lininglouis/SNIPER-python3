@@ -1,0 +1,15 @@
+*.so
+*~
+*.pyc
+output
+proposals
+data
+build/
+*.png
+debug/*
+*.pkl
+*.rec
+*.idx
+*.lst
+*.o
+SNIPER-mxnet/
